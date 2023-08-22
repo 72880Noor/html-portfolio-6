@@ -1,0 +1,17 @@
+html{
+    background:url(./ccc.jpg) no-repeat fixed;
+    background-size: auto;
+}
+h1{
+    color: Red;
+}
+#hello{
+    color: green;
+}
+.id-selector {
+    color: blue;
+}
+h1[value="hello"]{
+    color: green;
+    
+}
